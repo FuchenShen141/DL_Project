@@ -8,5 +8,7 @@ To evaluate model and compute loss, please run evaluate.ipynb under image_filter
 To get the result from different network, please run different network ipynb file to generate result.
 
 The generated outputs of different network are under image_filtering->other_test.
+
 The ensemble outputs are under image_filtering->ensemble_results
+
 The loss results are in DL_Results.xlsx
